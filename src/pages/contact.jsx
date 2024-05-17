@@ -69,7 +69,7 @@ const Contact = () => {
                                 <div className="about-image-container">
                                     <div className="about-image-wrapper">
                                         <img
-                                            src="contact.jpg"
+                                            src="/reactfolio/contact.jpg"
                                             alt="about"
                                             className="about-image"
                                         />
@@ -77,9 +77,6 @@ const Contact = () => {
                                 </div>
 
                             </div>
-                        </div>
-                        <div className="about-socials-mobile">
-                            <Socials/>
                         </div>
                     </div>
 

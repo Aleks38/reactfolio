@@ -16,7 +16,7 @@ const Works = () => {
                         <div className="works-body">
                             <div className="work">
                                 <img
-                                    src="./qiis_logo.png"
+                                    src="/reactfolio/qiis_logo.png"
                                     alt="QIIS logo"
                                     className="work-image"
                                 />
@@ -29,7 +29,7 @@ const Works = () => {
 
                             <div className="work">
                                 <img
-                                    src="./qiis_logo.png"
+                                    src="/reactfolio/qiis_logo.png"
                                     alt="QIIS logo"
                                     className="work-image"
                                 />
@@ -42,7 +42,7 @@ const Works = () => {
 
                             <div className="work">
                                 <img
-                                    src="./fb_logo.png"
+                                    src="/reactfolio/fb_logo.png"
                                     alt="Fitness Boutique logo"
                                     className="work-image"
                                 />
@@ -65,7 +65,7 @@ const Works = () => {
                         <div className="works-body">
                             <div className="work">
                                 <img
-                                    src="./iut2_logo.png"
+                                    src="/reactfolio/iut2_logo.png"
                                     alt="facebook"
                                     className="work-image"
                                 />
@@ -78,7 +78,7 @@ const Works = () => {
 
                             <div className="work">
                                 <img
-                                    src="./sd_logo.png"
+                                    src="/reactfolio/sd_logo.png"
                                     alt="twitter"
                                     className="work-image"
                                 />
@@ -91,7 +91,7 @@ const Works = () => {
 
                             <div className="work">
                                 <img
-                                    src="./nat_logo.png"
+                                    src="/reactfolio/nat_logo.png"
                                     alt="twitter"
                                     className="work-image"
                                 />

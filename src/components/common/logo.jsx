@@ -18,7 +18,7 @@ const Logo = (props) => {
 
 	return (
 		<React.Fragment>
-			{link ? <Link to="/">{imageElement}</Link> : imageElement}
+			{link ? <Link to="/reactfolio">{imageElement}</Link> : imageElement}
 		</React.Fragment>
 	);
 };

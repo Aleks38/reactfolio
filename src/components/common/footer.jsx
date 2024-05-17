@@ -10,16 +10,16 @@ const Footer = () => {
                 <div className="footer-links">
                     <ul className="footer-nav-link-list">
                         <li className="footer-nav-link-item">
-                            <Link to="/">Accueil</Link>
+                            <Link to="/reactfolio">Accueil</Link>
                         </li>
                         <li className="footer-nav-link-item">
-                            <Link to="/about">A propos</Link>
+                            <Link to="/reactfolio/about">A propos</Link>
                         </li>
                         <li className="footer-nav-link-item">
-                            <Link to="/projects">Projets</Link>
+                            <Link to="/reactfolio/projects">Projets</Link>
                         </li>
                         <li className="footer-nav-link-item">
-                            <Link to="/contact">Contact</Link>
+                            <Link to="/reactfolio/contact">Contact</Link>
                         </li>
                     </ul>
                 </div>

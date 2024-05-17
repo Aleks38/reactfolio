@@ -1,11 +1,12 @@
 {
-  "homepage": "https://aleks38.github.io/PorfolioV2/",
+  "homepage": "https://aleks38.github.io/reactfolio/",
   "name": "portfolio",
   "version": "1.1.0",
   "description": "Personal portfolio template built using Reactjs",
   "author": {
     "name": "Alexy Da Silva",
-    "email": "alexy.dasilva@icloud.com"
+    "email": "alexy.dasilva@icloud.com",
+    "url": "https://aleks38.github.io/reactfolio/"
   },
   "license": "MIT",
   "private": true,

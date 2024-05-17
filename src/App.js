@@ -20,15 +20,13 @@ function App() {
 
 	return (
 		<div className="App">
-			<Router basename="/reactfolio">
-				<Routes>
-					<Route path="/" element={<Homepage />} />
-					<Route path="/about" element={<About />} />
-					<Route path="/projects" element={<Projects />} />
-					<Route path="/contact" element={<Contact />} />
-					<Route path="*" element={<Notfound />} />
-				</Routes>
-			</Router>
+			<Routes>
+				<Route path="/reactfolio" element={<Homepage />} />
+				<Route path="/about" element={<About />} />
+				<Route path="/projects" element={<Projects />} />
+				<Route path="/contact" element={<Contact />} />
+				<Route path="*" element={<Notfound />} />
+			</Routes>
 		</div>
 	);
 }

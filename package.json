@@ -5,8 +5,7 @@
   "description": "Personal portfolio template built using Reactjs",
   "author": {
     "name": "Alexy Da Silva",
-    "email": "alexy.dasilva@icloud.com",
-    "url": "https://aleks38.github.io/reactfolio/"
+    "email": "alexy.dasilva@icloud.com"
   },
   "license": "MIT",
   "private": true,

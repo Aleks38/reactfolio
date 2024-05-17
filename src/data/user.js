@@ -3,7 +3,7 @@ const INFO = {
         title: "Portfolio",
         name: "Alexy Da Silva",
         email: "alexy.dasilva@icloud.com",
-        logo: "../logo.png",
+        logo: "./logo.png",
     },
 
     socials: {

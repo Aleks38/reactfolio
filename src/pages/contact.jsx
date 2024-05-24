@@ -47,7 +47,7 @@ const Contact = () => {
                                 </div>
 
                                 <div className="subtitle about-subtitle">
-                                    Pour me contacter veuillez le faire avec cette adresse :
+                                    Pour me contacter par mail ça se passe juste en dessous
                                     &nbsp;{" "}
                                     <a href={`mailto:${INFO.main.email}`}>
                                         {INFO.main.email}

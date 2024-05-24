@@ -21,7 +21,7 @@ const INFO = {
     about: {
         title: "Je m'appelle Da Silva Alexy et je suis étudiant en BUT Informatique à Grenoble.",
         description:
-            "Je suis étudiant en 3e année de BUT Informatique parcours Réalisation d’Applications : Conception, Réalisation et Validation en alternance à Grenoble. Mon année est donc organisée entre les semaines de cours qui visent à me préparer aux métiers d’informaticien dans différents secteurs qu'il soit privés ou publics et les semaines d'entreprises où j'ai la chance de découvrir l'organisation de projet au sein d'une équipe ainsi d'en apprendre plus sur le développement mobile.",
+            "Je suis étudiant en 3e année de BUT Informatique parcours Réalisation d’Applications : Conception, Réalisation et Validation en alternance à Grenoble. Mon année est donc organisée entre les semaines de cours qui visent à me préparer aux métiers d’informaticien dans différents secteurs qu'ils soient privés ou publics et les semaines d'entreprises où j'ai la chance de découvrir l'organisation de projet au sein d'une équipe ainsi d'en apprendre plus sur le développement mobile.",
     },
 
     projects: [
@@ -38,7 +38,7 @@ const INFO = {
         {
             title: "Gravity Escape",
             description:
-                "GameJam de septembre 2023 à l'IUT2 de Grenoble. La réalisation est un jeu en Python utilisant la librairies PyGame. Le jeu a été réalisé en 4 jours avec une équipe de 4 personnes",
+                "GameJam de septembre 2023 à l'IUT2 de Grenoble. La réalisation est un jeu en Python utilisant la librairie PyGame. Le jeu a été réalisé en 4 jours avec une équipe de 4 personnes.",
             logo: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg",
             linkText: "Voir repository",
             link: "https://github.com/patate-de-foreach/GravityEscape.git",
@@ -58,7 +58,7 @@ const INFO = {
         {
             title: "API Formula 1",
             description:
-                "J'ai créé une API sur le thème de la formule 1. L'API est réalisé en NodeJS avec l'utilisation de la librairie Express en respectant les spécification OpenAPI et avec un documentation Swagger.",
+                "J'ai créé une API sur le thème de la formule 1. L'API est réalisé en NodeJS avec l'utilisation de la librairie Express en respectant les spécifications OpenAPI et avec une documentation Swagger.",
             logo: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg",
             linkText: "Voir repository",
             link: "https://github.com/Aleks38/API-formula-1.git",
@@ -68,7 +68,7 @@ const INFO = {
         {
             title: "Démineur",
             description:
-                "Réalisation du jeu du démineur en Flutter avec l'utilisation de la librairie Provider tels que Riverpod pour la gestion de l'état de l'application.",
+                "Réalisation du jeu du démineur en Flutter avec l'utilisation de la librairie Provider telle que Riverpod pour la gestion de l'état de l'application.",
             logo: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg",
             linkText: "Voir repository",
             link: "https://github.com/Aleks38/Demineur.git",
@@ -78,7 +78,7 @@ const INFO = {
         {
             title: "Tour of heroes",
             description:
-                "Projet permettant de découvrir le framework Angular. Le projet est une une évolution du tutoriel officiel d'Angular.",
+                "Projet permettant de découvrir le framework Angular. Le projet est une évolution du tutoriel officiel d'Angular.",
             logo: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg",
             linkText: "Voir repository",
             link: "https://github.com/Aleks38/Tour_of-heroes.git",

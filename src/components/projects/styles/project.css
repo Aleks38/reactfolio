@@ -32,11 +32,6 @@
     align-items: center;
 }
 
-.project-logo img {
-    width: 100%;
-
-}
-
 .techno-name {
     font-size: 12px;
     color: var(--primary-color);

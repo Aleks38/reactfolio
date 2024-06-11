@@ -19,7 +19,7 @@ const INFO = {
     },
 
     about: {
-        title: "Je m'appelle Da Silva Alexy et je suis étudiant en BUT Informatique à Grenoble.",
+        title: "Da Silva Alexy ,étudiant en BUT Informatique à Grenoble.",
         description:
             "Je suis étudiant en 3e année de BUT Informatique parcours Réalisation d’Applications : Conception, Réalisation et Validation en alternance à Grenoble. Mon année est donc organisée entre les semaines de cours qui visent à me préparer aux métiers d’informaticien dans différents secteurs qu'ils soient privés ou publics et les semaines d'entreprises où j'ai la chance de découvrir l'organisation de projet au sein d'une équipe ainsi d'en apprendre plus sur le développement mobile.",
     },

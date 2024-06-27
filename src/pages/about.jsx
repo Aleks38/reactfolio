@@ -72,7 +72,7 @@ const About = () => {
                         </div>
                     </div>
 
-                    <div className="page-footer">
+                    <div className="page-footer page-footer-fixed">
                         <Footer/>
                     </div>
                 </div>
